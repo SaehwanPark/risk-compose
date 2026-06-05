@@ -1,0 +1,70 @@
+Screen {
+  background: #0d1117;
+  color: #d9e2ec;
+}
+
+#app-shell {
+  height: 1fr;
+  padding: 1 2;
+}
+
+#title-bar {
+  color: #f8fafc;
+  text-style: bold;
+  margin-bottom: 1;
+}
+
+#context-bar,
+#status-line {
+  min-height: 1;
+  color: #94a3b8;
+}
+
+#status-line {
+  margin-bottom: 1;
+}
+
+#status-line.status-info {
+  color: #7dd3fc;
+}
+
+#status-line.status-success {
+  color: #86efac;
+}
+
+#status-line.status-warning {
+  color: #fcd34d;
+}
+
+#status-line.status-error {
+  color: #fca5a5;
+}
+
+#screen-scroll {
+  height: 1fr;
+  border: solid #1f2937;
+  background: #111827;
+  padding: 1;
+  margin-bottom: 1;
+}
+
+#screen-output {
+  color: #d9e2ec;
+}
+
+#prompt-row {
+  height: auto;
+  align: left middle;
+}
+
+#prompt-glyph {
+  width: 2;
+  color: #7dd3fc;
+  text-style: bold;
+}
+
+#command-input {
+  width: 1fr;
+  border: solid #1f2937;
+  background: #0f172a;
+}

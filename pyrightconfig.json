@@ -1,0 +1,20 @@
+{
+  "include": [
+    "packages",
+    "tests"
+  ],
+  "exclude": [
+    "**/__pycache__",
+    ".venv",
+    "cms_software",
+    "cms_docs",
+    "legacy",
+    "other_docs"
+  ],
+  "extraPaths": [
+    ".",
+    "packages/core/src"
+  ],
+  "pythonVersion": "3.11",
+  "typeCheckingMode": "basic"
+}

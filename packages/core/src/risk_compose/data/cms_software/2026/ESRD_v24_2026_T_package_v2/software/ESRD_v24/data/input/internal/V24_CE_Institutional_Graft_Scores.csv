@@ -1,0 +1,13 @@
+﻿Graft Duration,Label,Score
+FGI_LT65_DUR4_9_ND_PBD, NonAged/with duration since transplant of 4-9 months/NonDual and Partial Benefit Dual,1.737
+FGI_LT65_DUR4_9_FBD, NonAged/with duration since transplant of 4-9 months/Full Benefit Dual,2.083
+FGI_GE65_DUR4_9_ND_PBD, Aged/with duration since transplant of 4-9 months/NonDual and Partial Benefit Dual,2.529
+FGI_GE65_DUR4_9_FBD, Aged/with duration since transplant of 4-9 months/Full Benefit Dual,2.605
+FGI_LT65_DUR10PL_ND_PBD, NonAged/with duration since transplant of 10 months or more/NonDual and Partial Benefit Dual,0.335
+FGI_LT65_DUR10PL_FBD, NonAged/with duration since transplant of 10 months or more/Full Benefit Dual,0.648
+FGI_GE65_DUR10PL_ND_PBD, Aged/with duration since transplant of 10 months or more/NonDual and Partial Benefit Dual,0.905
+FGI_GE65_DUR10PL_FBD, Aged/with duration since transplant of 10 months or more/Full Benefit Dual,1.279
+FGI_PBD_LT65_flag, Partial Benefit Dual/NonAged,0.141
+FGI_PBD_GE65_flag, Partial Benefit Dual/Aged,0.162
+LTI_LT65, Institutional Status/NonAged,2.146
+LTI_GE65, Institutional Status/Aged,0.955

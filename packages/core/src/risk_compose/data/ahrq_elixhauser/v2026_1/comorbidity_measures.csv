@@ -1,0 +1,39 @@
+measure,description,uses_poa
+CMR_AIDS,Acquired immune deficiency syndrome,0
+CMR_ALCOHOL,Alcohol abuse,0
+CMR_ANEMDEF,Anemias due to other nutritional deficiencies,1
+CMR_AUTOIMMUNE,Autoimmune conditions,0
+CMR_BLDLOSS,Chronic blood loss (iron deficiency),1
+CMR_CANCER_LEUK,Leukemia,0
+CMR_CANCER_LYMPH,Lymphoma,0
+CMR_CANCER_METS,Metastatic cancer,0
+CMR_CANCER_NSITU,"Solid tumor without metastasis, in situ",0
+CMR_CANCER_SOLID,"Solid tumor without metastasis, malignant",0
+CMR_CBVD,Cerebrovascular disease,1
+CMR_COAG,Coagulopathy,1
+CMR_DEMENTIA,Dementia,0
+CMR_DEPRESS,Depression,0
+CMR_DIAB_CX,Diabetes with chronic complications,0
+CMR_DIAB_UNCX,Diabetes without chronic complications,0
+CMR_DRUG_ABUSE,Drug abuse,0
+CMR_HF,Heart failure,1
+CMR_HTN_CX,"Hypertension, complicated",0
+CMR_HTN_UNCX,"Hypertension, uncomplicated",0
+CMR_LIVER_MLD,"Liver disease, mild",1
+CMR_LIVER_SEV,"Liver disease and failure, moderate to severe",1
+CMR_LUNG_CHRONIC,Chronic pulmonary disease,0
+CMR_NEURO_MOVT,Neurological disorders affecting movement,1
+CMR_NEURO_OTH,Other neurological disorders,1
+CMR_NEURO_SEIZ,Seizures and epilepsy,1
+CMR_OBESE,Obesity,0
+CMR_PARALYSIS,Paralysis,1
+CMR_PERIVASC,Peripheral vascular disease,0
+CMR_PSYCHOSES,Psychoses,1
+CMR_PULMCIRC,Pulmonary circulation disease,1
+CMR_RENLFL_MOD,"Renal (kidney) failure and disease, moderate",1
+CMR_RENLFL_SEV,"Renal (kidney) failure and disease, severe",1
+CMR_THYROID_HYPO,Hypothyroidism,0
+CMR_THYROID_OTH,Other thyroid disorders,0
+CMR_ULCER_PEPTIC,Peptic ulcer with bleeding,1
+CMR_VALVE,Valvular disease,1
+CMR_WGHTLOSS,Weight loss,1

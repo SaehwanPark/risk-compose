@@ -1,0 +1,111 @@
+[build-system]
+requires = ["setuptools>=77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "risk-compose"
+version = "1.0.2"
+description = "Composable risk-adjustment scoring, command-line, TUI, and GUI workflows"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "Apache-2.0"
+authors = [
+  { name = "Saehwan Park" },
+]
+dependencies = [
+  "comp-builders",
+  "pydantic>=2,<3",
+  "streamlit>=1.52,<2",
+  "textual>=8.1,<9",
+]
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Typing :: Typed",
+]
+
+[project.urls]
+Homepage = "https://github.com/SaehwanPark/risk-compose"
+Repository = "https://github.com/SaehwanPark/risk-compose"
+Issues = "https://github.com/SaehwanPark/risk-compose/issues"
+Changelog = "https://github.com/SaehwanPark/risk-compose/blob/main/CHANGELOG.md"
+
+[project.scripts]
+risk-compose = "risk_compose.cli:main"
+risk-compose-tui = "risk_compose.tui.app:main"
+risk-compose-gui = "risk_compose.gui.runner:main"
+
+[project.optional-dependencies]
+pandas = [
+  "pandas>=3.0.2",
+]
+polars = [
+  "polars>=1,<2",
+]
+pyspark = [
+  "pyspark>=4,<5",
+]
+adapters = [
+  "pandas>=3.0.2",
+  "polars>=1,<2",
+  "pyspark>=4,<5",
+]
+
+[tool.uv.workspace]
+members = []
+
+[tool.uv.sources]
+comp-builders = { git = "https://github.com/SaehwanPark/comp-builders.git" }
+
+[dependency-groups]
+dev = [
+  "mypy>=1,<2",
+  "pandas>=3.0.2",
+  "basedpyright>=1.39,<2",
+  "pytest>=9.0.2",
+  "streamlit>=1.52,<2",
+  "textual>=8.1,<9",
+]
+
+[tool.pytest.ini_options]
+norecursedirs = [
+  "legacy",
+]
+
+[tool.mypy]
+python_version = "3.11"
+files = ["packages", "tests"]
+exclude = '''(?x)(
+  ^packages/(cli|tui|gui)/src/risk_compose/__init__\.pyi$
+)'''
+strict = true
+namespace_packages = true
+explicit_package_bases = true
+plugins = ["pydantic.mypy"]
+mypy_path = [
+  "$MYPY_CONFIG_FILE_DIR/packages/core/src",
+]
+
+[tool.setuptools]
+package-dir = {"" = "packages/core/src"}
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["packages/core/src"]
+include = ["risk_compose*"]
+namespaces = true
+
+[tool.setuptools.package-data]
+risk_compose = ["py.typed", "data/**/*.csv"]
+"risk_compose.tui" = ["theme.tcss"]
+
+[[tool.mypy.overrides]]
+module = ["textual.*"]
+ignore_missing_imports = true
+
+[[tool.mypy.overrides]]
+module = ["pyspark.*"]
+ignore_missing_imports = true

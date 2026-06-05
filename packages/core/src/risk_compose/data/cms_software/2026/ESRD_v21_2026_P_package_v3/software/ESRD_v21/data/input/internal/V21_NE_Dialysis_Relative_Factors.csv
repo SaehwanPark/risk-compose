@@ -1,0 +1,114 @@
+﻿Variable,Label,DIAL_NE
+NMCAID_NORIGDIS_NEF0_34," Baseline -- Neither Medicaid nor Originally Disabled Female 0-34",0.793
+NMCAID_NORIGDIS_NEF35_44," Baseline -- Neither Medicaid nor Originally Disabled Female 35-44",0.793
+NMCAID_NORIGDIS_NEF45_54," Baseline -- Neither Medicaid nor Originally Disabled Female 45-54",0.877
+NMCAID_NORIGDIS_NEF55_59," Baseline -- Neither Medicaid nor Originally Disabled Female 55-59",0.917
+NMCAID_NORIGDIS_NEF60_64," Baseline -- Neither Medicaid nor Originally Disabled Female 60-64",0.975
+NMCAID_NORIGDIS_NEF65_69," Baseline -- Neither Medicaid nor Originally Disabled Female 65-69",1.121
+NMCAID_NORIGDIS_NEF70_74," Baseline -- Neither Medicaid nor Originally Disabled Female 70-74",1.191
+NMCAID_NORIGDIS_NEF75_79," Baseline -- Neither Medicaid nor Originally Disabled Female 75-79",1.191
+NMCAID_NORIGDIS_NEF80_84," Baseline -- Neither Medicaid nor Originally Disabled Female 80-84",1.221
+NMCAID_NORIGDIS_NEF85_GT," Baseline -- Neither Medicaid nor Originally Disabled Female 85+",1.164
+NMCAID_NORIGDIS_NEM0_34," Baseline -- Neither Medicaid nor Originally Disabled Male 0-34",0.700
+NMCAID_NORIGDIS_NEM35_44," Baseline -- Neither Medicaid nor Originally Disabled Male 35-44",0.700
+NMCAID_NORIGDIS_NEM45_54," Baseline -- Neither Medicaid nor Originally Disabled Male 45-54",0.759
+NMCAID_NORIGDIS_NEM55_59," Baseline -- Neither Medicaid nor Originally Disabled Male 55-59",0.865
+NMCAID_NORIGDIS_NEM60_64," Baseline -- Neither Medicaid nor Originally Disabled Male 60-64",0.905
+NMCAID_NORIGDIS_NEM65_69," Baseline -- Neither Medicaid nor Originally Disabled Male 65-69",1.025
+NMCAID_NORIGDIS_NEM70_74," Baseline -- Neither Medicaid nor Originally Disabled Male 70-74",1.127
+NMCAID_NORIGDIS_NEM75_79," Baseline -- Neither Medicaid nor Originally Disabled Male 75-79",1.181
+NMCAID_NORIGDIS_NEM80_84," Baseline -- Neither Medicaid nor Originally Disabled Male 80-84",1.175
+NMCAID_NORIGDIS_NEM85_GT," Baseline -- Neither Medicaid nor Originally Disabled Male 85+",1.161
+MCAID_NORIGDIS_NEF0_34," Medicaid Only -- Not Originally Disabled Female 0-34",1.066
+MCAID_NORIGDIS_NEF35_44," Medicaid Only -- Not Originally Disabled Female 35-44",1.028
+MCAID_NORIGDIS_NEF45_54," Medicaid Only -- Not Originally Disabled Female 45-54",1.029
+MCAID_NORIGDIS_NEF55_59," Medicaid Only -- Not Originally Disabled Female 55-59",1.049
+MCAID_NORIGDIS_NEF60_64," Medicaid Only -- Not Originally Disabled Female 60-64",1.112
+MCAID_NORIGDIS_NEF65_69," Medicaid Only -- Not Originally Disabled Female 65-69",1.295
+MCAID_NORIGDIS_NEF70_74," Medicaid Only -- Not Originally Disabled Female 70-74",1.397
+MCAID_NORIGDIS_NEF75_79," Medicaid Only -- Not Originally Disabled Female 75-79",1.397
+MCAID_NORIGDIS_NEF80_84," Medicaid Only -- Not Originally Disabled Female 80-84",1.397
+MCAID_NORIGDIS_NEF85_GT," Medicaid Only -- Not Originally Disabled Female 85+",1.454
+MCAID_NORIGDIS_NEM0_34," Medicaid Only -- Not Originally Disabled Male 0-34",0.897
+MCAID_NORIGDIS_NEM35_44," Medicaid Only -- Not Originally Disabled Male 35-44",0.922
+MCAID_NORIGDIS_NEM45_54," Medicaid Only -- Not Originally Disabled Male 45-54",0.950
+MCAID_NORIGDIS_NEM55_59," Medicaid Only -- Not Originally Disabled Male 55-59",1.015
+MCAID_NORIGDIS_NEM60_64," Medicaid Only -- Not Originally Disabled Male 60-64",1.064
+MCAID_NORIGDIS_NEM65_69," Medicaid Only -- Not Originally Disabled Male 65-69",1.249
+MCAID_NORIGDIS_NEM70_74," Medicaid Only -- Not Originally Disabled Male 70-74",1.382
+MCAID_NORIGDIS_NEM75_79," Medicaid Only -- Not Originally Disabled Male 75-79",1.382
+MCAID_NORIGDIS_NEM80_84," Medicaid Only -- Not Originally Disabled Male 80-84",1.382
+MCAID_NORIGDIS_NEM85_GT," Medicaid Only -- Not Originally Disabled Male 85+",1.485
+NMCAID_ORIGDIS_NEF0_34," Originally Disabled Only -- Not Medicaid Female 0-34",1.120
+NMCAID_ORIGDIS_NEF35_44," Originally Disabled Only -- Not Medicaid Female 35-44",1.120
+NMCAID_ORIGDIS_NEF45_54," Originally Disabled Only -- Not Medicaid Female 45-54",1.120
+NMCAID_ORIGDIS_NEF55_59," Originally Disabled Only -- Not Medicaid Female 55-59",1.120
+NMCAID_ORIGDIS_NEF60_64," Originally Disabled Only -- Not Medicaid Female 60-64",1.181
+NMCAID_ORIGDIS_NEF65_69," Originally Disabled Only -- Not Medicaid Female 65-69",1.236
+NMCAID_ORIGDIS_NEF70_74," Originally Disabled Only -- Not Medicaid Female 70-74",1.331
+NMCAID_ORIGDIS_NEF75_79," Originally Disabled Only -- Not Medicaid Female 75-79",1.380
+NMCAID_ORIGDIS_NEF80_84," Originally Disabled Only -- Not Medicaid Female 80-84",1.380
+NMCAID_ORIGDIS_NEF85_GT," Originally Disabled Only -- Not Medicaid Female 85+",1.380
+NMCAID_ORIGDIS_NEM0_34," Originally Disabled Only -- Not Medicaid Male 0-34",1.001
+NMCAID_ORIGDIS_NEM35_44," Originally Disabled Only -- Not Medicaid Male 35-44",1.001
+NMCAID_ORIGDIS_NEM45_54," Originally Disabled Only -- Not Medicaid Male 45-54",1.001
+NMCAID_ORIGDIS_NEM55_59," Originally Disabled Only -- Not Medicaid Male 55-59",1.033
+NMCAID_ORIGDIS_NEM60_64," Originally Disabled Only -- Not Medicaid Male 60-64",1.033
+NMCAID_ORIGDIS_NEM65_69," Originally Disabled Only -- Not Medicaid Male 65-69",1.033
+NMCAID_ORIGDIS_NEM70_74," Originally Disabled Only -- Not Medicaid Male 70-74",1.220
+NMCAID_ORIGDIS_NEM75_79," Originally Disabled Only -- Not Medicaid Male 75-79",1.253
+NMCAID_ORIGDIS_NEM80_84," Originally Disabled Only -- Not Medicaid Male 80-84",1.253
+NMCAID_ORIGDIS_NEM85_GT," Originally Disabled Only -- Not Medicaid Male 85+",1.253
+MCAID_ORIGDIS_NEF0_34," Medicaid and Originally Disabled Female 0-34",1.328
+MCAID_ORIGDIS_NEF35_44," Medicaid and Originally Disabled Female 35-44",1.328
+MCAID_ORIGDIS_NEF45_54," Medicaid and Originally Disabled Female 45-54",1.368
+MCAID_ORIGDIS_NEF55_59," Medicaid and Originally Disabled Female 55-59",1.368
+MCAID_ORIGDIS_NEF60_64," Medicaid and Originally Disabled Female 60-64",1.387
+MCAID_ORIGDIS_NEF65_69," Medicaid and Originally Disabled Female 65-69",1.409
+MCAID_ORIGDIS_NEF70_74," Medicaid and Originally Disabled Female 70-74",1.444
+MCAID_ORIGDIS_NEF75_79," Medicaid and Originally Disabled Female 75-79",1.488
+MCAID_ORIGDIS_NEF80_84," Medicaid and Originally Disabled Female 80-84",1.488
+MCAID_ORIGDIS_NEF85_GT," Medicaid and Originally Disabled Female 85+",1.488
+MCAID_ORIGDIS_NEM0_34," Medicaid and Originally Disabled Male 0-34",1.246
+MCAID_ORIGDIS_NEM35_44," Medicaid and Originally Disabled Male 35-44",1.246
+MCAID_ORIGDIS_NEM45_54," Medicaid and Originally Disabled Male 45-54",1.271
+MCAID_ORIGDIS_NEM55_59," Medicaid and Originally Disabled Male 55-59",1.292
+MCAID_ORIGDIS_NEM60_64," Medicaid and Originally Disabled Male 60-64",1.361
+MCAID_ORIGDIS_NEM65_69," Medicaid and Originally Disabled Male 65-69",1.361
+MCAID_ORIGDIS_NEM70_74," Medicaid and Originally Disabled Male 70-74",1.474
+MCAID_ORIGDIS_NEM75_79," Medicaid and Originally Disabled Male 75-79",1.474
+MCAID_ORIGDIS_NEM80_84," Medicaid and Originally Disabled Male 80-84",1.474
+MCAID_ORIGDIS_NEM85_GT," Medicaid and Originally Disabled Male 85+",1.474
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,

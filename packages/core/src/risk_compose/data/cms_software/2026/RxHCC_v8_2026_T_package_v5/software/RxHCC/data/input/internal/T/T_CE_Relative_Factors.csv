@@ -1,0 +1,119 @@
+﻿Variable,Label,CE_NonLow_Aged,CE_NonLow_NonAged,CE_Low_Aged,CE_Low_NonAged,CE_LTI
+M0_34,"Male, Age  0 - 34",,0.178,,0.598,2.504
+M35_44,"Male, Age 35 - 44",,0.225,,0.646,2.215
+M45_54,"Male, Age 45 - 54",,0.286,,0.585,1.876
+M55_59,"Male, Age 55 - 59",,0.298,,0.479,1.420
+M60_64,"Male, Age 60 - 64",,0.282,,0.359,1.094
+M65_69,"Male, Age 65 - 69",0.168,,0.309,,1.097
+M70_74,"Male, Age 70 - 74",0.144,,0.226,,0.793
+M75_79,"Male, Age 75 - 79",0.061,,0.133,,0.641
+M80_84,"Male, Age 80 - 84",0.061,,0.029,,0.458
+M85_89,"Male, Age 85 - 89",0.061,,0.029,,0.278
+M90_94,"Male, Age 90 - 94",0.061,,0.029,,0.167
+M95_GT,"Male, Age 95 -",0.061,,0.029,,0.031
+F0_34,"Female, Age  0 - 34",,0.218,,0.499,2.382
+F35_44,"Female, Age 35 - 44",,0.327,,0.694,2.673
+F45_54,"Female, Age 45 - 54",,0.358,,0.714,2.023
+F55_59,"Female, Age 55 - 59",,0.322,,0.558,1.670
+F60_64,"Female, Age 60 - 64",,0.248,,0.346,1.385
+F65_69,"Female, Age 65 - 69",0.122,,0.299,,1.453
+F70_74,"Female, Age 70 - 74",0.114,,0.045,,1.106
+F75_79,"Female, Age 75 - 79",0.040,,0.045,,0.794
+F80_84,"Female, Age 80 - 84",0.040,,0.045,,0.546
+F85_89,"Female, Age 85 - 89",0.040,,0.045,,0.353
+F90_94,"Female, Age 90 - 94",0.040,,0.045,,0.196
+F95_GT,"Female, Age 95 -",0.040,,0.045,,0.039
+M65OD,"Male, Age >= 65, originally entitled due to disability",,,0.175,,
+F65OD,"Female, Age >= 65, originally entitled due to disability",0.064,,0.314,,
+OD65,"Age >= 65, originally entitled due to disability",,,,,0.238
+RXHCC1,HIV/AIDS,8.523,10.433,9.763,10.270,6.530
+RXHCC5,Opportunistic Infections,0.468,0.611,0.662,0.541,0.509
+RXHCC15,Chronic Myeloid Leukemia,6.175,5.271,15.008,20.324,10.151
+RXHCC16,Multiple Myeloma and Other Hematologic Cancers,14.205,15.685,12.359,13.011,4.514
+RXHCC17,Secondary Cancer of Bone and Kidney,6.175,5.271,9.943,9.097,4.514
+RXHCC18,"Secondary Cancer of Lung, Liver, Brain, and Other Sites",1.949,1.977,3.430,3.371,0.950
+RXHCC19,Leukemias and Other Hematologic Cancers,1.949,1.746,2.574,2.483,0.950
+RXHCC20,"Lung, Kidney, and Other Cancers; Secondary Cancer of Lymph Nodes and Other Sites",0.491,0.388,1.025,0.750,0.312
+RXHCC21,Lymphomas and Other Hematologic Cancers,0.410,0.135,0.372,0.267,0.142
+RXHCC22,"Prostate, Breast, Bladder, and Other Cancers and Tumors",0.124,0.135,0.279,0.267,0.142
+RXHCC30,Diabetes with Complications,0.495,0.537,0.941,1.426,0.903
+RXHCC31,Diabetes without Complication,0.171,0.162,0.329,0.498,0.350
+RXHCC40,Alpha-1-Antitrypsin Deficiency,3.730,8.556,7.759,10.698,1.452
+RXHCC41,Lysosomal Storage Disorders,3.081,13.907,2.583,19.382,0.283
+RXHCC42,Acromegaly and Other Endocrine and Metabolic Disorders,2.110,4.246,2.718,6.251,0.717
+RXHCC43,"Pituitary, Adrenal Gland, and Other Endocrine and Metabolic Disorders",0.063,0.154,,0.153,0.102
+RXHCC44,Thyroid Disorders,0.070,0.160,0.154,0.296,0.148
+RXHCC47,Disorders of Lipoid Metabolism,,,0.033,0.112,0.057
+RXHCC54,Chronic Viral Hepatitis C,0.714,0.843,1.004,0.821,1.129
+RXHCC55,Acute or Unspecified Viral Hepatitis C,0.714,0.843,1.004,0.821,1.129
+RXHCC56,Chronic Viral Hepatitis B and Other Specified Chronic Viral Hepatitis,0.351,0.666,1.238,0.765,0.339
+RXHCC59,Primary Biliary Cirrhosis,1.081,1.440,1.492,2.322,1.341
+RXHCC65,Chronic Pancreatitis,0.351,0.650,0.600,0.930,0.583
+RXHCC66,"Pancreatic Disorders and Intestinal Malabsorption, Except Pancreatitis",0.245,0.650,0.480,0.930,0.357
+RXHCC67,Inflammatory Bowel Disease,0.494,0.505,1.127,2.316,0.450
+RXHCC80,Aseptic Necrosis of Bone,0.204,0.211,0.193,0.365,0.201
+RXHCC81,Psoriatic Arthropathy,0.758,0.603,4.614,7.449,2.552
+RXHCC82,Systemic Sclerosis,0.975,0.640,1.811,1.959,0.471
+RXHCC83,Rheumatoid Arthritis and Other Inflammatory Polyarthropathy,0.222,0.311,1.113,1.959,0.471
+RXHCC84,Systemic Lupus Erythematosus and Other Systemic Connective Tissue Disorders,0.113,0.239,0.249,0.351,0.127
+RXHCC87,"Osteoporosis, Vertebral and Pathological Fractures",0.055,0.196,0.228,0.432,
+RXHCC95,Sickle Cell Anemia,,0.575,,1.809,0.012
+RXHCC96,"Acquired Hemolytic, Aplastic, and Sideroblastic Anemias",0.722,0.550,0.820,1.033,0.223
+RXHCC98,Hereditary Angioedema and Other Defects in the Complement System,12.046,57.445,18.171,57.829,0.555
+RXHCC99,Immune Disorders,0.943,0.622,1.471,1.330,0.852
+RXHCC100,Immune Thrombocytopenic Purpura,0.304,0.160,1.510,1.738,0.979
+RXHCC111,Alzheimer's Disease,,,,,
+RXHCC112,"Dementia, Except Alzheimer's Disease",,,,,
+RXHCC130,Schizophrenia and Other Psychosis,0.240,0.269,0.732,1.432,0.353
+RXHCC131,Bipolar Disorders,0.240,0.135,0.585,0.758,0.353
+RXHCC132,Depression,0.070,0.049,0.183,0.254,0.160
+RXHCC133,Anxiety and Other Psychiatric Disorders,0.035,0.049,0.079,0.168,0.074
+RXHCC146,Profound or Severe Intellectual Disability/Developmental Disorder,0.526,0.122,0.424,0.386,
+RXHCC147,Moderate Intellectual Disability/Developmental Disorder,0.526,,0.202,0.126,
+RXHCC148,Mild or Unspecified Intellectual Disability/Developmental Disorder,0.526,,0.030,0.020,
+RXHCC153,Myasthenia Gravis and Other Myoneural Disorders,1.094,2.428,1.728,2.579,0.390
+RXHCC154,Amyotrophic Lateral Sclerosis and Other Motor Neuron Disease,0.776,1.492,0.446,1.698,0.183
+RXHCC155,Spinal Cord Disorders,0.086,,0.075,,
+RXHCC157,Chronic Inflammatory Demyelinating Polyneuritis ,3.783,6.891,5.666,8.430,1.947
+RXHCC158,Inflammatory and Toxic Neuropathy,0.074,0.146,0.028,0.237,0.156
+RXHCC159,Multiple Sclerosis,3.733,5.468,5.383,9.464,2.832
+RXHCC160,Huntington Disease,3.223,4.019,3.544,5.699,3.495
+RXHCC161,Parkinson Disease,0.549,0.793,0.615,0.871,0.621
+RXHCC163,Intractable Epilepsy,0.312,0.468,0.797,2.875,0.456
+RXHCC164,"Epilepsy and Other Seizure Disorders, Except Intractable Epilepsy",0.068,,0.052,0.183,
+RXHCC166,Migraine Headaches,0.100,0.125,0.289,0.335,0.406
+RXHCC168,Trigeminal and Postherpetic Neuralgia,0.094,0.276,0.265,0.418,0.283
+RXHCC183,Pulmonary Arterial Hypertension,1.158,4.027,1.670,6.338,0.616
+RXHCC184,"Pulmonary Hypertension, Except Arterial, and Other Pulmonary Heart Disease",0.151,0.294,0.195,0.381,0.223
+RXHCC186,Heart Failure,0.110,0.020,0.195,0.105,0.223
+RXHCC187,Hypertension,0.056,0.005,0.113,0.084,0.076
+RXHCC188,Coronary Artery Disease,0.052,,0.183,,
+RXHCC191,Ventricular Septal Defect and Major Congenital Heart Disorders,0.150,0.703,0.514,0.307,0.254
+RXHCC193,Atrial Arrhythmias,0.215,0.021,0.139,,0.122
+RXHCC207,Spastic Hemiplegia,0.148,0.098,0.170,,
+RXHCC215,Venous Thromboembolism,0.228,0.238,0.237,0.247,0.148
+RXHCC225,Cystic Fibrosis,4.774,26.401,2.663,31.668,1.420
+RXHCC226,Idiopathic Pulmonary Fibrosis and Systemic Sclerosis with Lung Involvement,4.862,3.788,4.995,4.151,1.490
+RXHCC227,"Pulmonary Fibrosis, Except Idiopathic",0.398,0.576,0.527,1.352,0.431
+RXHCC228,Severe Persistent Asthma,0.855,0.612,1.907,1.909,1.354
+RXHCC229,"Chronic Obstructive Pulmonary Disease, Bronchiectasis, and Other Asthma",0.237,0.102,0.491,0.396,0.431
+RXHCC243,"Glaucoma, Open-Angle or Moderate/Severe Stage",0.196,0.223,0.469,0.543,0.406
+RXHCC244,Other Non-Acute Glaucoma,0.067,,0.107,,0.049
+RXHCC260,Kidney Transplant Status,,,,,
+RXHCC261,"Dialysis Status, Including End Stage Renal Disease",0.017,,,,
+RXHCC262,Chronic Kidney Disease Stage 5,0.017,,,,
+RXHCC263,Chronic Kidney Disease Stage 4,0.017,,,,
+RXHCC311,"Chronic Ulcer of Skin, Except Pressure",0.175,0.136,0.201,0.304,0.066
+RXHCC314,"Pemphigus, Pemphigoid, and Other Bullous Skin Disorders",0.317,0.836,0.530,0.746,0.328
+RXHCC316,"Psoriasis, Except with Arthropathy",0.167,0.183,1.198,2.285,0.811
+RXHCC317,Discoid Lupus Erythematosus,0.113,0.239,0.043,,
+RXHCC355,Narcolepsy and Cataplexy,1.080,2.410,1.452,3.591,0.814
+RXHCC395,"Stem Cell, Including Bone Marrow, Transplant Status/Complications",4.379,2.326,6.061,3.944,2.412
+RXHCC396,"Heart, Lung, Liver, Intestine, or Pancreas Transplant Status",,,,,
+NONAGED_RXHCC1,NonAged * HIV/AIDS,,,,,2.770
+NONAGED_RXHCC130,NonAged * Schizophrenia and Other Psychosis,,,,,0.756
+NONAGED_RXHCC131,NonAged * Bipolar Disorders,,,,,0.756
+NONAGED_RXHCC132,NonAged * Depression,,,,,0.363
+NONAGED_RXHCC133,NonAged * Anxiety and Other Psychiatric Disorders,,,,,0.015
+NONAGED_RXHCC159,NonAged * Multiple Sclerosis,,,,,3.509
+NONAGED_RXHCC163,NonAged * Intractable Epilepsy,,,,,0.711

@@ -1,0 +1,109 @@
+﻿Variable,Label,GRAFT_NE
+ND_PBD_NORIGDIS_G_NEF0_34," NonDual or Partial Benefit Dual -- Not Originally Disabled Female 0-34",0.705
+ND_PBD_NORIGDIS_G_NEF35_44," NonDual or Partial Benefit Dual -- Not Originally Disabled Female 35-44",0.942
+ND_PBD_NORIGDIS_G_NEF45_54," NonDual or Partial Benefit Dual -- Not Originally Disabled Female 45-54",1.145
+ND_PBD_NORIGDIS_G_NEF55_59," NonDual or Partial Benefit Dual -- Not Originally Disabled Female 55-59",1.142
+ND_PBD_NORIGDIS_G_NEF60_64," NonDual or Partial Benefit Dual -- Not Originally Disabled Female 60-64",1.202
+ND_PBD_NORIGDIS_G_NEF65," NonDual or Partial Benefit Dual -- Not Originally Disabled Female 65",0.527
+ND_PBD_NORIGDIS_G_NEF66," NonDual or Partial Benefit Dual -- Not Originally Disabled Female 66",0.527
+ND_PBD_NORIGDIS_G_NEF67," NonDual or Partial Benefit Dual -- Not Originally Disabled Female 67",0.553
+ND_PBD_NORIGDIS_G_NEF68," NonDual or Partial Benefit Dual -- Not Originally Disabled Female 68",0.579
+ND_PBD_NORIGDIS_G_NEF69," NonDual or Partial Benefit Dual -- Not Originally Disabled Female 69",0.619
+ND_PBD_NORIGDIS_G_NEF70_74," NonDual or Partial Benefit Dual -- Not Originally Disabled Female 70-74",0.688
+ND_PBD_NORIGDIS_G_NEF75_79," NonDual or Partial Benefit Dual -- Not Originally Disabled Female 75-79",0.893
+ND_PBD_NORIGDIS_G_NEF80_84," NonDual or Partial Benefit Dual -- Not Originally Disabled Female 80-84",0.98
+ND_PBD_NORIGDIS_G_NEF85_89," NonDual or Partial Benefit Dual -- Not Originally Disabled Female 85-89",1.275
+ND_PBD_NORIGDIS_G_NEF90_94," NonDual or Partial Benefit Dual -- Not Originally Disabled Female 90-94",1.275
+ND_PBD_NORIGDIS_G_NEF95_GT," NonDual or Partial Benefit Dual -- Not Originally Disabled Female 95+",1.275
+ND_PBD_NORIGDIS_G_NEM0_34," NonDual or Partial Benefit Dual -- Not Originally Disabled Male 0-34",0.405
+ND_PBD_NORIGDIS_G_NEM35_44," NonDual or Partial Benefit Dual -- Not Originally Disabled Male 35-44",0.663
+ND_PBD_NORIGDIS_G_NEM45_54," NonDual or Partial Benefit Dual -- Not Originally Disabled Male 45-54",0.898
+ND_PBD_NORIGDIS_G_NEM55_59," NonDual or Partial Benefit Dual -- Not Originally Disabled Male 55-59",0.976
+ND_PBD_NORIGDIS_G_NEM60_64," NonDual or Partial Benefit Dual -- Not Originally Disabled Male 60-64",1.048
+ND_PBD_NORIGDIS_G_NEM65," NonDual or Partial Benefit Dual -- Not Originally Disabled Male 65",0.562
+ND_PBD_NORIGDIS_G_NEM66," NonDual or Partial Benefit Dual -- Not Originally Disabled Male 66",0.57
+ND_PBD_NORIGDIS_G_NEM67," NonDual or Partial Benefit Dual -- Not Originally Disabled Male 67",0.612
+ND_PBD_NORIGDIS_G_NEM68," NonDual or Partial Benefit Dual -- Not Originally Disabled Male 68",0.672
+ND_PBD_NORIGDIS_G_NEM69," NonDual or Partial Benefit Dual -- Not Originally Disabled Male 69",0.678
+ND_PBD_NORIGDIS_G_NEM70_74," NonDual or Partial Benefit Dual -- Not Originally Disabled Male 70-74",0.801
+ND_PBD_NORIGDIS_G_NEM75_79," NonDual or Partial Benefit Dual -- Not Originally Disabled Male 75-79",1.04
+ND_PBD_NORIGDIS_G_NEM80_84," NonDual or Partial Benefit Dual -- Not Originally Disabled Male 80-84",1.234
+ND_PBD_NORIGDIS_G_NEM85_89," NonDual or Partial Benefit Dual -- Not Originally Disabled Male 85-89",1.502
+ND_PBD_NORIGDIS_G_NEM90_94," NonDual or Partial Benefit Dual -- Not Originally Disabled Male 90-94",1.502
+ND_PBD_NORIGDIS_G_NEM95_GT," NonDual or Partial Benefit Dual -- Not Originally Disabled Male 95+",1.502
+FBD_NORIGDIS_G_NEF0_34," Full Benefit Dual -- Not Originally Disabled Female 0-34",1.016
+FBD_NORIGDIS_G_NEF35_44," Full Benefit Dual -- Not Originally Disabled Female 35-44",1.291
+FBD_NORIGDIS_G_NEF45_54," Full Benefit Dual -- Not Originally Disabled Female 45-54",1.403
+FBD_NORIGDIS_G_NEF55_59," Full Benefit Dual -- Not Originally Disabled Female 55-59",1.278
+FBD_NORIGDIS_G_NEF60_64," Full Benefit Dual -- Not Originally Disabled Female 60-64",1.384
+FBD_NORIGDIS_G_NEF65," Full Benefit Dual -- Not Originally Disabled Female 65",0.978
+FBD_NORIGDIS_G_NEF66," Full Benefit Dual -- Not Originally Disabled Female 66",0.982
+FBD_NORIGDIS_G_NEF67," Full Benefit Dual -- Not Originally Disabled Female 67",0.996
+FBD_NORIGDIS_G_NEF68," Full Benefit Dual -- Not Originally Disabled Female 68",0.996
+FBD_NORIGDIS_G_NEF69," Full Benefit Dual -- Not Originally Disabled Female 69",0.996
+FBD_NORIGDIS_G_NEF70_74," Full Benefit Dual -- Not Originally Disabled Female 70-74",1.034
+FBD_NORIGDIS_G_NEF75_79," Full Benefit Dual -- Not Originally Disabled Female 75-79",1.119
+FBD_NORIGDIS_G_NEF80_84," Full Benefit Dual -- Not Originally Disabled Female 80-84",1.331
+FBD_NORIGDIS_G_NEF85_89," Full Benefit Dual -- Not Originally Disabled Female 85-89",1.549
+FBD_NORIGDIS_G_NEF90_94," Full Benefit Dual -- Not Originally Disabled Female 90-94",1.697
+FBD_NORIGDIS_G_NEF95_GT," Full Benefit Dual -- Not Originally Disabled Female 95+",1.697
+FBD_NORIGDIS_G_NEM0_34," Full Benefit Dual -- Not Originally Disabled Male 0-34",0.732
+FBD_NORIGDIS_G_NEM35_44," Full Benefit Dual -- Not Originally Disabled Male 35-44",1.253
+FBD_NORIGDIS_G_NEM45_54," Full Benefit Dual -- Not Originally Disabled Male 45-54",1.407
+FBD_NORIGDIS_G_NEM55_59," Full Benefit Dual -- Not Originally Disabled Male 55-59",1.464
+FBD_NORIGDIS_G_NEM60_64," Full Benefit Dual -- Not Originally Disabled Male 60-64",1.529
+FBD_NORIGDIS_G_NEM65," Full Benefit Dual -- Not Originally Disabled Male 65",1.171
+FBD_NORIGDIS_G_NEM66," Full Benefit Dual -- Not Originally Disabled Male 66",1.223
+FBD_NORIGDIS_G_NEM67," Full Benefit Dual -- Not Originally Disabled Male 67",1.308
+FBD_NORIGDIS_G_NEM68," Full Benefit Dual -- Not Originally Disabled Male 68",1.355
+FBD_NORIGDIS_G_NEM69," Full Benefit Dual -- Not Originally Disabled Male 69",1.443
+FBD_NORIGDIS_G_NEM70_74," Full Benefit Dual -- Not Originally Disabled Male 70-74",1.443
+FBD_NORIGDIS_G_NEM75_79," Full Benefit Dual -- Not Originally Disabled Male 75-79",1.443
+FBD_NORIGDIS_G_NEM80_84," Full Benefit Dual -- Not Originally Disabled Male 80-84",1.489
+FBD_NORIGDIS_G_NEM85_89," Full Benefit Dual -- Not Originally Disabled Male 85-89",1.667
+FBD_NORIGDIS_G_NEM90_94," Full Benefit Dual -- Not Originally Disabled Male 90-94",1.964
+FBD_NORIGDIS_G_NEM95_GT," Full Benefit Dual -- Not Originally Disabled Male 95+",1.964
+ND_PBD_ORIGDIS_G_NEF65," NonDual or Partial Benefit Dual and Originally Disabled Female 65",1.202
+ND_PBD_ORIGDIS_G_NEF66," NonDual or Partial Benefit Dual and Originally Disabled Female 66",1.265
+ND_PBD_ORIGDIS_G_NEF67," NonDual or Partial Benefit Dual and Originally Disabled Female 67",1.265
+ND_PBD_ORIGDIS_G_NEF68," NonDual or Partial Benefit Dual and Originally Disabled Female 68",1.265
+ND_PBD_ORIGDIS_G_NEF69," NonDual or Partial Benefit Dual and Originally Disabled Female 69",1.265
+ND_PBD_ORIGDIS_G_NEF70_74," NonDual or Partial Benefit Dual and Originally Disabled Female 70-74",1.265
+ND_PBD_ORIGDIS_G_NEF75_79," NonDual or Partial Benefit Dual and Originally Disabled Female 75-79",1.265
+ND_PBD_ORIGDIS_G_NEF80_84," NonDual or Partial Benefit Dual and Originally Disabled Female 80-84",1.265
+ND_PBD_ORIGDIS_G_NEF85_89," NonDual or Partial Benefit Dual and Originally Disabled Female 85-89",1.275
+ND_PBD_ORIGDIS_G_NEF90_94," NonDual or Partial Benefit Dual and Originally Disabled Female 90-94",1.275
+ND_PBD_ORIGDIS_G_NEF95_GT," NonDual or Partial Benefit Dual and Originally Disabled Female 95+",1.275
+ND_PBD_ORIGDIS_G_NEM65," NonDual or Partial Benefit Dual and Originally Disabled Male 65",1.048
+ND_PBD_ORIGDIS_G_NEM66," NonDual or Partial Benefit Dual and Originally Disabled Male 66",1.145
+ND_PBD_ORIGDIS_G_NEM67," NonDual or Partial Benefit Dual and Originally Disabled Male 67",1.145
+ND_PBD_ORIGDIS_G_NEM68," NonDual or Partial Benefit Dual and Originally Disabled Male 68",1.145
+ND_PBD_ORIGDIS_G_NEM69," NonDual or Partial Benefit Dual and Originally Disabled Male 69",1.286
+ND_PBD_ORIGDIS_G_NEM70_74," NonDual or Partial Benefit Dual and Originally Disabled Male 70-74",1.286
+ND_PBD_ORIGDIS_G_NEM75_79," NonDual or Partial Benefit Dual and Originally Disabled Male 75-79",1.286
+ND_PBD_ORIGDIS_G_NEM80_84," NonDual or Partial Benefit Dual and Originally Disabled Male 80-84",1.286
+ND_PBD_ORIGDIS_G_NEM85_89," NonDual or Partial Benefit Dual and Originally Disabled Male 85-89",1.502
+ND_PBD_ORIGDIS_G_NEM90_94," NonDual or Partial Benefit Dual and Originally Disabled Male 90-94",1.502
+ND_PBD_ORIGDIS_G_NEM95_GT," NonDual or Partial Benefit Dual and Originally Disabled Male 95+",1.502
+FBD_ORIGDIS_G_NEF65," Full Benefit Dual and Originally Disabled Female 65",1.585
+FBD_ORIGDIS_G_NEF66," Full Benefit Dual and Originally Disabled Female 66",1.585
+FBD_ORIGDIS_G_NEF67," Full Benefit Dual and Originally Disabled Female 67",1.585
+FBD_ORIGDIS_G_NEF68," Full Benefit Dual and Originally Disabled Female 68",2.004
+FBD_ORIGDIS_G_NEF69," Full Benefit Dual and Originally Disabled Female 69",2.004
+FBD_ORIGDIS_G_NEF70_74," Full Benefit Dual and Originally Disabled Female 70-74",2.004
+FBD_ORIGDIS_G_NEF75_79," Full Benefit Dual and Originally Disabled Female 75-79",2.004
+FBD_ORIGDIS_G_NEF80_84," Full Benefit Dual and Originally Disabled Female 80-84",2.004
+FBD_ORIGDIS_G_NEF85_89," Full Benefit Dual and Originally Disabled Female 85-89",2.004
+FBD_ORIGDIS_G_NEF90_94," Full Benefit Dual and Originally Disabled Female 90-94",2.004
+FBD_ORIGDIS_G_NEF95_GT," Full Benefit Dual and Originally Disabled Female 95+",2.004
+FBD_ORIGDIS_G_NEM65," Full Benefit Dual and Originally Disabled Male 65",1.711
+FBD_ORIGDIS_G_NEM66," Full Benefit Dual and Originally Disabled Male 66",1.942
+FBD_ORIGDIS_G_NEM67," Full Benefit Dual and Originally Disabled Male 67",1.942
+FBD_ORIGDIS_G_NEM68," Full Benefit Dual and Originally Disabled Male 68",1.942
+FBD_ORIGDIS_G_NEM69," Full Benefit Dual and Originally Disabled Male 69",1.942
+FBD_ORIGDIS_G_NEM70_74," Full Benefit Dual and Originally Disabled Male 70-74",1.942
+FBD_ORIGDIS_G_NEM75_79," Full Benefit Dual and Originally Disabled Male 75-79",2.788
+FBD_ORIGDIS_G_NEM80_84," Full Benefit Dual and Originally Disabled Male 80-84",2.788
+FBD_ORIGDIS_G_NEM85_89," Full Benefit Dual and Originally Disabled Male 85-89",2.788
+FBD_ORIGDIS_G_NEM90_94," Full Benefit Dual and Originally Disabled Male 90-94",2.788
+FBD_ORIGDIS_G_NEM95_GT," Full Benefit Dual and Originally Disabled Male 95+",2.788

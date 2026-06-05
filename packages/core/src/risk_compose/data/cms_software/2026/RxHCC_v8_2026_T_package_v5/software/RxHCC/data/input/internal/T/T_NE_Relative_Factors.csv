@@ -1,0 +1,109 @@
+Variable,Label,NE_NonLow_Community,NE_Low_Community,NE_LTI
+NESRD_NORIGDIS_X_M0_34,"Male, age 0 - 34, not concurrently ESRD, not originally disabled",1.139,1.507,3.586
+NESRD_NORIGDIS_X_M35_44,"Male, age 35 - 44, not concurrently ESRD, not originally disabled",1.139,1.979,3.108
+NESRD_NORIGDIS_X_M45_54,"Male, age 45 - 54, not concurrently ESRD, not originally disabled",1.177,1.964,2.872
+NESRD_NORIGDIS_X_M55_59,"Male, age 55 - 59, not concurrently ESRD, not originally disabled",1.177,1.964,2.744
+NESRD_NORIGDIS_X_M60_64,"Male, age 60 - 64, not concurrently ESRD, not originally disabled",1.177,1.633,2.379
+NESRD_NORIGDIS_X_M65,"Male, age 65, not concurrently ESRD, not originally disabled",0.465,1.122,2.379
+NESRD_NORIGDIS_X_M66,"Male, age 66, not concurrently ESRD, not originally disabled",0.486,0.775,1.952
+NESRD_NORIGDIS_X_M67,"Male, age 67, not concurrently ESRD, not originally disabled",0.51,0.743,1.952
+NESRD_NORIGDIS_X_M68,"Male, age 68, not concurrently ESRD, not originally disabled",0.522,0.705,1.74
+NESRD_NORIGDIS_X_M69,"Male, age 69, not concurrently ESRD, not originally disabled",0.522,0.667,1.74
+NESRD_NORIGDIS_X_M70_74,"Male, age 70 - 74, not concurrently ESRD, not originally disabled",0.596,0.627,1.74
+NESRD_NORIGDIS_X_M75_79,"Male, age 75 - 79, not concurrently ESRD, not originally disabled",0.668,0.639,1.341
+NESRD_NORIGDIS_X_M80_84,"Male, age 80 - 84, not concurrently ESRD, not originally disabled",0.668,0.639,1.341
+NESRD_NORIGDIS_X_M85_89,"Male, age 85 - 89, not concurrently ESRD, not originally disabled",0.668,0.639,1.019
+NESRD_NORIGDIS_X_M90_94,"Male, age 90 - 94, not concurrently ESRD, not originally disabled",0.368,0.333,0.712
+NESRD_NORIGDIS_X_M95_GT,"Male, age 95 -, not concurrently ESRD, not originally disabled",0.368,0.333,0.712
+NESRD_NORIGDIS_X_F0_34,"Female, age 0 - 34, not concurrently ESRD, not originally disabled",1.447,1.761,4.051
+NESRD_NORIGDIS_X_F35_44,"Female, age 35 - 44, not concurrently ESRD, not originally disabled",1.447,2.516,3.705
+NESRD_NORIGDIS_X_F45_54,"Female, age 45 - 54, not concurrently ESRD, not originally disabled",1.255,2.498,3.569
+NESRD_NORIGDIS_X_F55_59,"Female, age 55 - 59, not concurrently ESRD, not originally disabled",1.255,2.05,2.868
+NESRD_NORIGDIS_X_F60_64,"Female, age 60 - 64, not concurrently ESRD, not originally disabled",1.255,1.963,2.824
+NESRD_NORIGDIS_X_F65,"Female, age 65, not concurrently ESRD, not originally disabled",0.381,1.119,2.824
+NESRD_NORIGDIS_X_F66,"Female, age 66, not concurrently ESRD, not originally disabled",0.409,0.79,2.427
+NESRD_NORIGDIS_X_F67,"Female, age 67, not concurrently ESRD, not originally disabled",0.42,0.708,2.427
+NESRD_NORIGDIS_X_F68,"Female, age 68, not concurrently ESRD, not originally disabled",0.441,0.708,1.726
+NESRD_NORIGDIS_X_F69,"Female, age 69, not concurrently ESRD, not originally disabled",0.473,0.731,1.726
+NESRD_NORIGDIS_X_F70_74,"Female, age 70 - 74, not concurrently ESRD, not originally disabled",0.496,0.765,1.614
+NESRD_NORIGDIS_X_F75_79,"Female, age 75 - 79, not concurrently ESRD, not originally disabled",0.557,0.688,1.614
+NESRD_NORIGDIS_X_F80_84,"Female, age 80 - 84, not concurrently ESRD, not originally disabled",0.521,0.688,1.055
+NESRD_NORIGDIS_X_F85_89,"Female, age 85 - 89, not concurrently ESRD, not originally disabled",0.521,0.688,1.055
+NESRD_NORIGDIS_X_F90_94,"Female, age 90 - 94, not concurrently ESRD, not originally disabled",0.396,0.424,0.658
+NESRD_NORIGDIS_X_F95_GT,"Female, age 95 -, not concurrently ESRD, not originally disabled",0.396,0.424,0.658
+ESRD_NORIGDIS_X_M0_34,"Male, age 0 - 34, concurrently ESRD, not originally disabled",1.139,2.202,2.358
+ESRD_NORIGDIS_X_M35_44,"Male, age 35 - 44, concurrently ESRD, not originally disabled",1.139,1.979,2.358
+ESRD_NORIGDIS_X_M45_54,"Male, age 45 - 54, concurrently ESRD, not originally disabled",1.177,1.964,2.358
+ESRD_NORIGDIS_X_M55_59,"Male, age 55 - 59, concurrently ESRD, not originally disabled",1.177,1.964,2.358
+ESRD_NORIGDIS_X_M60_64,"Male, age 60 - 64, concurrently ESRD, not originally disabled",1.177,2.082,2.358
+ESRD_NORIGDIS_X_M65,"Male, age 65, concurrently ESRD, not originally disabled",1.542,2.226,2.358
+ESRD_NORIGDIS_X_M66,"Male, age 66, concurrently ESRD, not originally disabled",1.542,2.226,2.358
+ESRD_NORIGDIS_X_M67,"Male, age 67, concurrently ESRD, not originally disabled",1.542,2.226,2.358
+ESRD_NORIGDIS_X_M68,"Male, age 68, concurrently ESRD, not originally disabled",1.542,2.226,2.358
+ESRD_NORIGDIS_X_M69,"Male, age 69, concurrently ESRD, not originally disabled",1.542,2.226,2.358
+ESRD_NORIGDIS_X_M70_74,"Male, age 70 - 74, concurrently ESRD, not originally disabled",1.542,2.226,2.358
+ESRD_NORIGDIS_X_M75_79,"Male, age 75 - 79, concurrently ESRD, not originally disabled",1.542,2.226,2.358
+ESRD_NORIGDIS_X_M80_84,"Male, age 80 - 84, concurrently ESRD, not originally disabled",1.542,2.226,2.358
+ESRD_NORIGDIS_X_M85_89,"Male, age 85 - 89, concurrently ESRD, not originally disabled",1.542,2.226,2.358
+ESRD_NORIGDIS_X_M90_94,"Male, age 90 - 94, concurrently ESRD, not originally disabled",1.542,2.226,2.358
+ESRD_NORIGDIS_X_M95_GT,"Male, age 95 -, concurrently ESRD, not originally disabled",1.542,2.226,2.358
+ESRD_NORIGDIS_X_F0_34,"Female, age 0 - 34, concurrently ESRD, not originally disabled",1.447,2.09,2.555
+ESRD_NORIGDIS_X_F35_44,"Female, age 35 - 44, concurrently ESRD, not originally disabled",1.447,2.516,2.555
+ESRD_NORIGDIS_X_F45_54,"Female, age 45 - 54, concurrently ESRD, not originally disabled",1.255,2.498,2.555
+ESRD_NORIGDIS_X_F55_59,"Female, age 55 - 59, concurrently ESRD, not originally disabled",1.255,2.403,2.555
+ESRD_NORIGDIS_X_F60_64,"Female, age 60 - 64, concurrently ESRD, not originally disabled",1.255,2.106,2.555
+ESRD_NORIGDIS_X_F65,"Female, age 65, concurrently ESRD, not originally disabled",1.299,2.15,2.555
+ESRD_NORIGDIS_X_F66,"Female, age 66, concurrently ESRD, not originally disabled",1.299,2.15,2.555
+ESRD_NORIGDIS_X_F67,"Female, age 67, concurrently ESRD, not originally disabled",1.299,2.15,2.555
+ESRD_NORIGDIS_X_F68,"Female, age 68, concurrently ESRD, not originally disabled",1.299,2.15,2.555
+ESRD_NORIGDIS_X_F69,"Female, age 69, concurrently ESRD, not originally disabled",1.299,2.15,2.555
+ESRD_NORIGDIS_X_F70_74,"Female, age 70 - 74, concurrently ESRD, not originally disabled",1.299,2.15,2.555
+ESRD_NORIGDIS_X_F75_79,"Female, age 75 - 79, concurrently ESRD, not originally disabled",1.299,2.15,2.555
+ESRD_NORIGDIS_X_F80_84,"Female, age 80 - 84, concurrently ESRD, not originally disabled",1.299,2.15,2.555
+ESRD_NORIGDIS_X_F85_89,"Female, age 85 - 89, concurrently ESRD, not originally disabled",1.299,2.15,2.555
+ESRD_NORIGDIS_X_F90_94,"Female, age 90 - 94, concurrently ESRD, not originally disabled",1.299,2.15,2.555
+ESRD_NORIGDIS_X_F95_GT,"Female, age 95 -, concurrently ESRD, not originally disabled",1.299,2.15,2.555
+NESRD_ORIGDIS_X_M65,"Male, age 65, not concurrently ESRD, originally disabled",1.008,1.446,2.379
+NESRD_ORIGDIS_X_M66,"Male, age 66, not concurrently ESRD, originally disabled",0.965,0.939,1.952
+NESRD_ORIGDIS_X_M67,"Male, age 67, not concurrently ESRD, originally disabled",0.965,0.914,1.952
+NESRD_ORIGDIS_X_M68,"Male, age 68, not concurrently ESRD, originally disabled",0.94,0.815,1.740
+NESRD_ORIGDIS_X_M69,"Male, age 69, not concurrently ESRD, originally disabled",0.94,0.815,1.740
+NESRD_ORIGDIS_X_M70_74,"Male, age 70 - 74, not concurrently ESRD, originally disabled",0.94,0.753,1.740
+NESRD_ORIGDIS_X_M75_79,"Male, age 75 - 79, not concurrently ESRD, originally disabled",0.668,0.639,1.341
+NESRD_ORIGDIS_X_M80_84,"Male, age 80 - 84, not concurrently ESRD, originally disabled",0.668,0.639,1.341
+NESRD_ORIGDIS_X_M85_89,"Male, age 85 - 89, not concurrently ESRD, originally disabled",0.668,0.639,1.019
+NESRD_ORIGDIS_X_M90_94,"Male, age 90 - 94, not concurrently ESRD, originally disabled",0.368,0.333,0.712
+NESRD_ORIGDIS_X_M95_GT,"Male, age 95 -, not concurrently ESRD, originally disabled",0.368,0.333,0.712
+NESRD_ORIGDIS_X_F65,"Female, age 65, not concurrently ESRD, originally disabled",1.104,1.638,2.824
+NESRD_ORIGDIS_X_F66,"Female, age 66, not concurrently ESRD, originally disabled",1.255,1.213,2.427
+NESRD_ORIGDIS_X_F67,"Female, age 67, not concurrently ESRD, originally disabled",1.255,1.013,2.427
+NESRD_ORIGDIS_X_F68,"Female, age 68, not concurrently ESRD, originally disabled",1.023,1.013,1.726
+NESRD_ORIGDIS_X_F69,"Female, age 69, not concurrently ESRD, originally disabled",1.023,1.013,1.726
+NESRD_ORIGDIS_X_F70_74,"Female, age 70 - 74, not concurrently ESRD, originally disabled",1.023,0.95,1.614
+NESRD_ORIGDIS_X_F75_79,"Female, age 75 - 79, not concurrently ESRD, originally disabled",0.828,0.688,1.614
+NESRD_ORIGDIS_X_F80_84,"Female, age 80 - 84, not concurrently ESRD, originally disabled",0.521,0.688,1.055
+NESRD_ORIGDIS_X_F85_89,"Female, age 85 - 89, not concurrently ESRD, originally disabled",0.521,0.688,1.055
+NESRD_ORIGDIS_X_F90_94,"Female, age 90 - 94, not concurrently ESRD, originally disabled",0.396,0.424,0.658
+NESRD_ORIGDIS_X_F95_GT,"Female, age 95 -, not concurrently ESRD, originally disabled",0.396,0.424,0.658
+ESRD_ORIGDIS_X_M65,"Male, age 65, concurrently ESRD, originally disabled",1.542,2.226,2.358
+ESRD_ORIGDIS_X_M66,"Male, age 66, concurrently ESRD, originally disabled",1.542,2.226,2.358
+ESRD_ORIGDIS_X_M67,"Male, age 67, concurrently ESRD, originally disabled",1.542,2.226,2.358
+ESRD_ORIGDIS_X_M68,"Male, age 68, concurrently ESRD, originally disabled",1.542,2.226,2.358
+ESRD_ORIGDIS_X_M69,"Male, age 69, concurrently ESRD, originally disabled",1.542,2.226,2.358
+ESRD_ORIGDIS_X_M70_74,"Male, age 70 - 74, concurrently ESRD, originally disabled",1.542,2.226,2.358
+ESRD_ORIGDIS_X_M75_79,"Male, age 75 - 79, concurrently ESRD, originally disabled",1.542,2.226,2.358
+ESRD_ORIGDIS_X_M80_84,"Male, age 80 - 84, concurrently ESRD, originally disabled",1.542,2.226,2.358
+ESRD_ORIGDIS_X_M85_89,"Male, age 85 - 89, concurrently ESRD, originally disabled",1.542,2.226,2.358
+ESRD_ORIGDIS_X_M90_94,"Male, age 90 - 94, concurrently ESRD, originally disabled",1.542,2.226,2.358
+ESRD_ORIGDIS_X_M95_GT,"Male, age 95 -, concurrently ESRD, originally disabled",1.542,2.226,2.358
+ESRD_ORIGDIS_X_F65,"Female, age 65, concurrently ESRD, originally disabled",1.299,2.15,2.555
+ESRD_ORIGDIS_X_F66,"Female, age 66, concurrently ESRD, originally disabled",1.299,2.15,2.555
+ESRD_ORIGDIS_X_F67,"Female, age 67, concurrently ESRD, originally disabled",1.299,2.15,2.555
+ESRD_ORIGDIS_X_F68,"Female, age 68, concurrently ESRD, originally disabled",1.299,2.15,2.555
+ESRD_ORIGDIS_X_F69,"Female, age 69, concurrently ESRD, originally disabled",1.299,2.15,2.555
+ESRD_ORIGDIS_X_F70_74,"Female, age 70 - 74, concurrently ESRD, originally disabled",1.299,2.15,2.555
+ESRD_ORIGDIS_X_F75_79,"Female, age 75 - 79, concurrently ESRD, originally disabled",1.299,2.15,2.555
+ESRD_ORIGDIS_X_F80_84,"Female, age 80 - 84, concurrently ESRD, originally disabled",1.299,2.15,2.555
+ESRD_ORIGDIS_X_F85_89,"Female, age 85 - 89, concurrently ESRD, originally disabled",1.299,2.15,2.555
+ESRD_ORIGDIS_X_F90_94,"Female, age 90 - 94, concurrently ESRD, originally disabled",1.299,2.15,2.555
+ESRD_ORIGDIS_X_F95_GT,"Female, age 95 -, concurrently ESRD, originally disabled",1.299,2.15,2.555
